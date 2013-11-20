@@ -19,7 +19,6 @@ A few default popular icons provided.
 ```
  <?php echo $this->generateSlot('socialIcons'); ?>
 ```
-
 * Enter your website's administration area, hover the pointer above social icons, and click `Edit` button.
 * To disable / enable specific icon, click "power" button or click an icon image.
 * Click `Upload` button to upload your icons. You can upload multiple icons at once.
