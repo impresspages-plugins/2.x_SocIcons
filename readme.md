@@ -4,9 +4,9 @@ Configurable plugin for adding social icons to websites running on ImpressPages 
 
 ## Features
 
-This plugin lets you display social icons.
+This plugin lets you add social icons to your website.
 Plugin supports uploading of bitmap and vector icon images.
-A few default popular icons provided.
+A few default popular social icons provided.
 
 ## Install
 
